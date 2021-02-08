@@ -1,0 +1,12 @@
+{
+  "name": "Haitian Restaurant",
+  "version": "1.0.0",
+  "description": "Haitian Restaurant ",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass -o css scss -w"
+  },
+  "keywords": [],
+  "author": "Cassandra Dauphin",
+  "license": "ISC"
+}
